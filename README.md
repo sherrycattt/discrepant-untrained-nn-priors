@@ -1,17 +1,14 @@
 # Discrepant Untrained Network Priors
 
 Official PyTorch implementation of the
-paper [
-[IEEE TCSVT'22] Self-Supervised Low-Light Image Enhancement Using Discrepant Untrained Network Priors
-](https://ieeexplore.ieee.org/document/9792425/).
+paper [Self-Supervised Low-Light Image Enhancement Using Discrepant Untrained Network Priors
+](https://ieeexplore.ieee.org/document/9792425/) published in IEEE TCSVT 2022.
 
-----------
+
 ![Framework](./figs/framework.png)
-----------
 
-## Get Started
 
-### Dependencies and Installation
+## Dependencies and Installation
 
 
 1. Create conda environment
@@ -33,7 +30,7 @@ cd discrepant-untrained-nn-priors
 pip install -r requirements.txt
 ```
 
-### Run
+## Run
 
 Specify the input path ```input_path```, the output directory ```output_dir```, and other hyper-parameters. Then run
 
@@ -57,11 +54,9 @@ If you find our work useful in your research or publication, please cite it:
 }
 ```
 
-----------
-
 ## Further comments
 
 The code is heavily borrowed from [DoubleDIP](https://github.com/yossigandelsman/DoubleDIP).
 
 The code is provided as-is for academic use only and without any guarantees. Please
-contact [the author](mailto:cssherryliang@pku.edu.cn) to report any bugs. 
+contact [the author](mailto:cssherryliang@gmail.com) to report any bugs. 
