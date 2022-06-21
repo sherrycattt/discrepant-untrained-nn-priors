@@ -4,6 +4,9 @@ Official PyTorch implementation of the
 paper [Self-Supervised Low-Light Image Enhancement Using Discrepant Untrained Network Priors
 ](https://ieeexplore.ieee.org/document/9792425/) published in IEEE TCSVT 2022.
 
+[**Paper**](./docs/liang_et_al_2022_self-supervised_low-light_image_enhancement_using_discrepant_untrained_network%20(suppl).pdf)
+ | 
+[**Supplementary material**](./docs/liang_et_al_2022_self-supervised_low-light_image_enhancement_using_discrepant_untrained_network%20(suppl).pdf)
 
 ![Framework](./figs/framework.png)
 
